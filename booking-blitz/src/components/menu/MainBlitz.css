@@ -1,0 +1,9 @@
+.box_3 img {
+    width: 70%;
+    position: relative;
+    top: 0;
+    left: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

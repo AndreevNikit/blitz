@@ -1,0 +1,45 @@
+
+
+.profile img {
+    width: 550px;
+    height: 550px;
+    border-radius: 50%;
+    margin-right: 70px;
+    padding: 40px;
+}
+
+.info-item {
+    margin-bottom: 20px; /* Увеличение отступа между элементами */
+    color: #FFBB00;
+}
+
+
+
+.profile {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blue-info {
+    color: #00FFE6;
+}
+
+
+
+@media (max-width: 600px) {
+    .profile img {
+        width: 100px;
+        height: 120px;
+        border-radius: 50%;
+        margin-right: 10px;
+        padding: 0px;
+        
+    }
+
+    
+
+  }
+
